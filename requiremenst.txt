@@ -1,0 +1,7 @@
+cffi==1.15.0
+cryptography==36.0.1
+pyaes==1.6.1
+pycparser==2.21
+pyOpenSSL==22.0.0
+requests==2.26.0
+Telethon==1.23.0
